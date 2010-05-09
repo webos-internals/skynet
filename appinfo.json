@@ -1,0 +1,15 @@
+{
+	"title": "SkyNet",
+	"id": "org.webosinternals.skynet",
+	"version": "0.1.0",
+	"release_date":	"9-May-2010",
+	"vendor": "WebOS Internals",
+	"vendor_email":	"support@webos-internals.org",
+	"vendor_url": "http://www.webos-internals.org/wiki/Application:SkyNet",
+	"type": "web",
+	"main": "index.html",
+	"icon": "icon.png",
+	"removable": "true",
+	"noWindow": true,
+	"noDeprecatedStyles" : true 
+}

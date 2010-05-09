@@ -1,0 +1,7 @@
+description "SkyNet Service"
+
+start on stopped finish
+
+exec /var/usr/sbin/org.webosinternals.skynet
+
+respawn
